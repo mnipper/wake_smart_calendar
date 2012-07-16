@@ -2,9 +2,9 @@
 class Database
 {
 	// Database access variables.
-	private $db_host = '10.104.250.225';
-	private $db_user = 'user1';
-	private $db_pass = 'Cs4Me!';
+	private $db_host = '0.0.0.0';
+	private $db_user = 'user';
+	private $db_pass = 'pw';
 	private $db_name = 'wake_smart_calendar';
 
 	// Connection variables.
